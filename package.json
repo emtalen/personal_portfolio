@@ -27,7 +27,7 @@
     "react-transition-group": "1.x",
     "react-vertical-timeline-component": "^2.5.0",
     "semantic-ui-react": "^0.88.2",
-    "serialize-javascript": "^3.0.0",
+    "serialize-javascript": "^3.1.0",
     "styled-components": "^5.0.1"
   },
   "devDependencies": {
